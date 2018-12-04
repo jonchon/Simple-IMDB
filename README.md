@@ -5,4 +5,4 @@ SQL folder contains files with SQL commands to create the different tables and i
 
 src folder contains the PHP files used to display the website and make queries to the database.
 
-src/video.mp4 demonstrates the website
+video.mp4 demonstrates the website
